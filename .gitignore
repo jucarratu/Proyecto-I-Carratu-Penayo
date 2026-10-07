@@ -1,0 +1,16 @@
+# Qt Creator
+*.user
+*.user.*
+*.autosave
+build/
+build-*/
+
+# Archivos generados
+*.o
+*.obj
+moc_*.cpp
+moc_*.h
+ui_*.h
+qrc_*.cpp
+Makefile*
+*.exe
