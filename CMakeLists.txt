@@ -25,6 +25,15 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
         ${PROJECT_SOURCES}
         ventana2.h ventana2.cpp ventana2.ui
         ventana2.h ventana2.cpp ventana2.ui
+        recursos.qrc
+        carrito.h carrito.cpp carrito.ui
+
+
+
+
+
+
+
     )
 # Define target properties for Android with Qt 6 as:
 #    set_property(TARGET Alejandro APPEND PROPERTY QT_ANDROID_PACKAGE_SOURCE_DIR
